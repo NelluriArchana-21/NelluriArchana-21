@@ -8,22 +8,14 @@
 
 <br/>
 
-<div style="display: flex; align-items: center; justify-content: center;">
-    <!-- Content on the left side -->
-     <div style="flex: 1;">
-        <img align="center" alt="Coding" width="320" height="200" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif">
-    </div>
-    <div style="flex: 1; padding-right: 20px;">
-        <ul style="list-style:none;">
-            <li>🔭 Currently pursuing my <b>B.Tech</b> at <b>Vignan's University</b></li>
-            <li>🌱 Currently learning <b>MERN Stack</b> & <b>DSA</b></li>
-            <li>📫 Reach me at: <b>archananelluri21@gmail.com</b></li>
-            <li>⚡ Fun fact: <b>"In order to be irreplaceable, one must always be different."</b></li>
-        </ul>
-    </div>
-    <!-- Image on the right side -->
-   
-</div>
+<div align="left">
+<img align="right" alt="Coding" width="320" height="200" src="https://i.pinimg.com/originals/79/9e/0d/799e0d7779f6ea6c3a89885ff60c55af.gif">
+ 
+            🔭 Currently pursuing my <b>B.Tech</b> at <b>Vignan's University</b>
+            🌱 Currently learning <b>MERN Stack</b> & <b>DSA</b>
+            📫 Reach me at: <b>archananelluri21@gmail.com</b>
+            ⚡ Fun fact: <b>"In order to be irreplaceable, one must always be different."</b>
+ </div>
 
 <br/>
 
