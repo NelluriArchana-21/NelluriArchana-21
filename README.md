@@ -1,7 +1,7 @@
 <img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=NelluriArchana-21" />
 
 <h1 align="center">
-    <img src="https://readme-typing-svg.herokuapp.com/?font=Fira+Code&size=40&pause=1000&center=true&vCenter=true&width=800&height=80&lines=Hi+There!+👋;I'm+Nelluri+Archana..!!" />
+    <img src="https://readme-typing-svg.herokuapp.com/?font=Fira+Code&size=40&pause=1000&center=true&vCenter=true&width=800&height=80&lines=Hello+World!+👋;I'm+Nelluri+Archana..!!" />
 </h1>
 
 <h3 align="center">A passionate Full-Stack Web Developer 🚀</h3>
