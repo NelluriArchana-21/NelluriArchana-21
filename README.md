@@ -1,7 +1,7 @@
 <img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=NelluriArchana-21" />
 
 <h1 align="center">
-    <img src="https://readme-typing-svg.herokuapp.com/?font=Fira+Code&size=40&pause=1000&center=true&vCenter=true&width=800&height=80&lines=Hello+World!+👋;I'm+Nelluri+Archana..!!" />
+    <img src="https://readme-typing-svg.herokuapp.com/?font=Fira+Code&size=40&pause=1000&center=true&vCenter=true&width=800&height=80&lines=Hi+There!+👋;I'm+Nelluri+Archana..!!" />
 </h1>
 
 <h3 align="center">A passionate Full-Stack Web Developer 🚀</h3>
@@ -29,7 +29,7 @@
   <a href="mailto:archananelluri21@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
-  <a href="https://www.linkedin.com/in/nelluriarchana/" target="_blank">
+  <a href="https://www.linkedin.com/in/archana-nelluri/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
 </div>
@@ -77,7 +77,7 @@
     <a href="https://github.com/NelluriArchana-21">
         <img src="https://img.shields.io/github/followers/NelluriArchana-21?style=social" alt="GitHub Followers" />
     </a>
-    <a href="https://www.linkedin.com/in/nelluriarchana/">
+    <a href="https://www.linkedin.com/in/archana-nelluri/">
         <img src="https://img.shields.io/badge/Follow%20Me-LinkedIn-blue?style=social&logo=linkedin" />
     </a>
 </div>
