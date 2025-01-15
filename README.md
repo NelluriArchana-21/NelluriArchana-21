@@ -10,6 +10,9 @@
 
 <div style="display: flex; align-items: center; justify-content: center;">
     <!-- Content on the left side -->
+     <div style="flex: 1;">
+        <img align="center" alt="Coding" width="320" height="200" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif">
+    </div>
     <div style="flex: 1; padding-right: 20px;">
         <ul style="list-style:none;">
             <li>🔭 Currently pursuing my <b>B.Tech</b> at <b>Vignan's University</b></li>
@@ -19,9 +22,7 @@
         </ul>
     </div>
     <!-- Image on the right side -->
-    <div style="flex: 1;">
-        <img align="center" alt="Coding" width="320" height="200" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif">
-    </div>
+   
 </div>
 
 <br/>
